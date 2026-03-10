@@ -1,6 +1,6 @@
 <div align="center">
 
-| Linux & Tools | Frontend | Backend | IDEs & Platforms | Database |Lang
+| Linux & Tools | Frontend | Backend | IDEs & Platforms | Database |language
 |---------------|----------|---------|------------------|----------|----------|
 | <img src="https://skillicons.dev/icons?i=linux,kali" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> | <img src="https://skillicons.dev/icons?i=php,laravel" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> |<img src="https://skillicons.dev/icons?i=python,java,c" height="40"/> |
 
