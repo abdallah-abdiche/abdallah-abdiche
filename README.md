@@ -23,4 +23,5 @@
     <a href="www.linkedin.com/in/abdallah-abdiche-b0686533b">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" />
   </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdallah;Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;AI+Enthusiast)](https://git.io/typing-svg)
 </div>
